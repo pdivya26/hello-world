@@ -1,4 +1,4 @@
-<h1> Welcome to VIT -DevOps Lab </h1>
-<h2> You've successfully deployed CI/CD Pipeline using jenkins </h2>
+<h1> Welcome to My App </h1>
+<h2> Divya Poojari - INFT - A - 22101A0046 </h2>
 
 
